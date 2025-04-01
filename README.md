@@ -1,6 +1,6 @@
-# BloodLink - Blood Donation Platform
+# BloodLink - A Blood Donation Platform
 
-A web application connecting blood donors with hospitals and those in need of blood transfusions. This platform simplifies the process of finding donors and requesting blood in emergencies.
+A web application connecting blood donors with hospitals in ethiopia and those in need of blood transfusions. This platform simplifies the process of finding donors and requesting blood in emergencies.
 
 ## ✨ Features
 
